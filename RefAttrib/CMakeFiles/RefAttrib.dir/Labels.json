@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/openDTect/ODWork/plugins/Referenceless/RefAttrib/refpi.cc"
+		},
+		{
+			"file" : "D:/openDTect/ODWork/plugins/RefAttrib/refattribdeps.h"
+		},
+		{
+			"file" : "D:/openDTect/ODWork/plugins/RefAttrib/refattribmod.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"RefAttrib"
+		],
+		"name" : "RefAttrib"
+	}
+}

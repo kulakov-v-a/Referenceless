@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+D:/openDTect/6.6.0/CMakeModules/templates/moddeps.h.in
+D:/openDTect/6.6.0/CMakeModules/templates/moduleheader.h.in
+D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/CMakeLists.txt

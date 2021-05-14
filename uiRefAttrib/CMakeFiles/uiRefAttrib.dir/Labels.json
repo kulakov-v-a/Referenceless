@@ -1,0 +1,34 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uiRefAttribPI.cc"
+		},
+		{
+			"file" : "D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattrib.cc"
+		},
+		{
+			"file" : "D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattrib.h"
+		},
+		{
+			"file" : "D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattribdeps.h"
+		},
+		{
+			"file" : "D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattribmod.h"
+		},
+		{
+			"file" : "D:/openDTect/ODWork/plugins/uiRefAttrib/uirefattribdeps.h"
+		},
+		{
+			"file" : "D:/openDTect/ODWork/plugins/uiRefAttrib/uirefattribmod.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"uiRefAttrib"
+		],
+		"name" : "uiRefAttrib"
+	}
+}
