@@ -1,27 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\openDTect\ODWork\plugins\Referenceless\RefAttrib\refpi.cc">
+    <ClCompile Include="C:\Users\yspeh\ODWork\plugins\RefAttrib\refpi.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\yspeh\ODWork\plugins\RefAttrib\refattrib.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\openDTect\ODWork\plugins\RefAttrib\refattribdeps.h">
+    <ClInclude Include="C:\Users\yspeh\ODWork\plugins\RefAttrib\refattrib.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\openDTect\ODWork\plugins\RefAttrib\refattribmod.h">
+    <ClInclude Include="C:\Users\yspeh\ODWork\plugins\RefAttrib\refattribdeps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yspeh\ODWork\plugins\RefAttrib\refattribmod.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\openDTect\ODWork\plugins\Referenceless\RefAttrib\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\yspeh\ODWork\plugins\RefAttrib\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{60E3E7F8-BE8D-36DE-A58D-6F185DB68B29}</UniqueIdentifier>
+      <UniqueIdentifier>{EAAF7A96-C3E9-3802-BDE4-FA63092D82D8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{882399CF-038F-3D42-9F2F-2C49687B563C}</UniqueIdentifier>
+      <UniqueIdentifier>{0D43BC8D-A3D0-3313-A40F-E9B2F5D62911}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

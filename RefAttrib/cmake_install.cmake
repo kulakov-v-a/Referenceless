@@ -1,4 +1,4 @@
-# Install script for directory: D:/openDTect/ODWork/plugins/Referenceless/RefAttrib
+# Install script for directory: C:/Users/yspeh/ODWork/plugins/RefAttrib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,13 +34,13 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin/win64/Debug" TYPE SHARED_LIBRARY FILES "D:/openDTect/ODWork/bin/win64/Debug/RefAttrib.dll")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin/win64/Debug" TYPE SHARED_LIBRARY FILES "C:/Users/yspeh/ODWork/bin/win64/Debug/RefAttrib.dll")
   endif()
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Rr][Ee][Ll][Ee][Aa][Ss][Ee])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin/win64/Release" TYPE SHARED_LIBRARY FILES "D:/openDTect/ODWork/bin/win64/Release/RefAttrib.dll")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin/win64/Release" TYPE SHARED_LIBRARY FILES "C:/Users/yspeh/ODWork/bin/win64/Release/RefAttrib.dll")
   endif()
 endif()
 

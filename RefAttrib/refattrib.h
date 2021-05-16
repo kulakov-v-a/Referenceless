@@ -5,8 +5,8 @@
 namespace Attrib
 {
 
-	mExpClass(RefAttrib) rAttrib : public Provider
-	{
+    mExpClass(RefAttrib) rAttrib : public Provider
+    {
         public:
             static void		initClass();
                 rAttrib(Desc&);
@@ -45,5 +45,5 @@ namespace Attrib
             ObjectSet<const DataHolder> inpdata_;
             int				dataidx_;
             const DataHolder* steeringdata_;
-	}
-}
+    };
+};

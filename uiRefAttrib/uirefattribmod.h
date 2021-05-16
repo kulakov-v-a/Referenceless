@@ -58,5 +58,6 @@ ________________________________________________________________________
 
 
 #include "uiodmaindeps.h"
+#include "C:\Users\yspeh\ODWork\plugins\RefAttrib\refattribdeps.h"
 
 #endif

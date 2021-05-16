@@ -1,4 +1,4 @@
-# Install script for directory: D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib
+# Install script for directory: C:/Users/yspeh/ODWork/plugins/uiRefAttrib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,13 +34,13 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin/win64/Debug" TYPE SHARED_LIBRARY FILES "D:/openDTect/ODWork/bin/win64/Debug/uiRefAttrib.dll")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin/win64/Debug" TYPE SHARED_LIBRARY FILES "C:/Users/yspeh/ODWork/bin/win64/Debug/uiRefAttrib.dll")
   endif()
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Rr][Ee][Ll][Ee][Aa][Ss][Ee])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin/win64/Release" TYPE SHARED_LIBRARY FILES "D:/openDTect/ODWork/bin/win64/Release/uiRefAttrib.dll")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin/win64/Release" TYPE SHARED_LIBRARY FILES "C:/Users/yspeh/ODWork/bin/win64/Release/uiRefAttrib.dll")
   endif()
 endif()
 

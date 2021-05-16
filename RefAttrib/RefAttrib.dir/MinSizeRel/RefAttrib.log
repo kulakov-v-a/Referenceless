@@ -1,0 +1,4 @@
+﻿  refattrib.cc
+C:\Users\yspeh\ODWork\plugins\RefAttrib\refattrib.cc(96): warning C4702: недостижимый код
+     Создается библиотека C:/Users/yspeh/ODWork/bin/win64/MinSizeRel/RefAttrib.lib и объект C:/Users/yspeh/ODWork/bin/win64/MinSizeRel/RefAttrib.exp
+  RefAttrib.vcxproj -> C:\Users\yspeh\ODWork\bin\win64\MinSizeRel\RefAttrib.dll

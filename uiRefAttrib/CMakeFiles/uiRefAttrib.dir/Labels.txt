@@ -1,10 +1,8 @@
 # Target labels
  uiRefAttrib
 # Source files and their labels
-D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uiRefAttribPI.cc
-D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattrib.cc
-D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattrib.h
-D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattribdeps.h
-D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattribmod.h
-D:/openDTect/ODWork/plugins/uiRefAttrib/uirefattribdeps.h
-D:/openDTect/ODWork/plugins/uiRefAttrib/uirefattribmod.h
+C:/Users/yspeh/ODWork/plugins/uiRefAttrib/uiRefAttribPI.cc
+C:/Users/yspeh/ODWork/plugins/uiRefAttrib/uirefattrib.cc
+C:/Users/yspeh/ODWork/plugins/uiRefAttrib/uirefattrib.h
+C:/Users/yspeh/ODWork/plugins/uiRefAttrib/uirefattribdeps.h
+C:/Users/yspeh/ODWork/plugins/uiRefAttrib/uirefattribmod.h

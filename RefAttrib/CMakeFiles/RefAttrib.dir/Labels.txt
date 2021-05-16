@@ -1,6 +1,8 @@
 # Target labels
  RefAttrib
 # Source files and their labels
-D:/openDTect/ODWork/plugins/Referenceless/RefAttrib/refpi.cc
-D:/openDTect/ODWork/plugins/RefAttrib/refattribdeps.h
-D:/openDTect/ODWork/plugins/RefAttrib/refattribmod.h
+C:/Users/yspeh/ODWork/plugins/RefAttrib/refpi.cc
+C:/Users/yspeh/ODWork/plugins/RefAttrib/refattrib.cc
+C:/Users/yspeh/ODWork/plugins/RefAttrib/refattrib.h
+C:/Users/yspeh/ODWork/plugins/RefAttrib/refattribdeps.h
+C:/Users/yspeh/ODWork/plugins/RefAttrib/refattribmod.h

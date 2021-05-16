@@ -2,13 +2,19 @@
 	"sources" : 
 	[
 		{
-			"file" : "D:/openDTect/ODWork/plugins/Referenceless/RefAttrib/refpi.cc"
+			"file" : "C:/Users/yspeh/ODWork/plugins/RefAttrib/refpi.cc"
 		},
 		{
-			"file" : "D:/openDTect/ODWork/plugins/RefAttrib/refattribdeps.h"
+			"file" : "C:/Users/yspeh/ODWork/plugins/RefAttrib/refattrib.cc"
 		},
 		{
-			"file" : "D:/openDTect/ODWork/plugins/RefAttrib/refattribmod.h"
+			"file" : "C:/Users/yspeh/ODWork/plugins/RefAttrib/refattrib.h"
+		},
+		{
+			"file" : "C:/Users/yspeh/ODWork/plugins/RefAttrib/refattribdeps.h"
+		},
+		{
+			"file" : "C:/Users/yspeh/ODWork/plugins/RefAttrib/refattribmod.h"
 		}
 	],
 	"target" : 

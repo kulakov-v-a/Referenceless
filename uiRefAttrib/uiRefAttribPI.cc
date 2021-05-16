@@ -6,6 +6,8 @@ static const char* rcsID mUsedVar = "$Id$";
 #include "uirefattribmod.h" // Зависимости для сборки
 #include "uirefattribdeps.h"
 
+#include "uirefattrib.h"
+
 #include "filepath.h" // хрен его пойми зач эти пакеты, но че то общее
 #include "ioman.h"
 #include "ioobj.h"

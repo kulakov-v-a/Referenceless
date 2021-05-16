@@ -2,25 +2,19 @@
 	"sources" : 
 	[
 		{
-			"file" : "D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uiRefAttribPI.cc"
+			"file" : "C:/Users/yspeh/ODWork/plugins/uiRefAttrib/uiRefAttribPI.cc"
 		},
 		{
-			"file" : "D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattrib.cc"
+			"file" : "C:/Users/yspeh/ODWork/plugins/uiRefAttrib/uirefattrib.cc"
 		},
 		{
-			"file" : "D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattrib.h"
+			"file" : "C:/Users/yspeh/ODWork/plugins/uiRefAttrib/uirefattrib.h"
 		},
 		{
-			"file" : "D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattribdeps.h"
+			"file" : "C:/Users/yspeh/ODWork/plugins/uiRefAttrib/uirefattribdeps.h"
 		},
 		{
-			"file" : "D:/openDTect/ODWork/plugins/Referenceless/uiRefAttrib/uirefattribmod.h"
-		},
-		{
-			"file" : "D:/openDTect/ODWork/plugins/uiRefAttrib/uirefattribdeps.h"
-		},
-		{
-			"file" : "D:/openDTect/ODWork/plugins/uiRefAttrib/uirefattribmod.h"
+			"file" : "C:/Users/yspeh/ODWork/plugins/uiRefAttrib/uirefattribmod.h"
 		}
 	],
 	"target" : 
